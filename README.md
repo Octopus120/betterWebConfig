@@ -10,7 +10,7 @@ List of commonly used prompts. Feel free to clone or PR yours. Thanks.<a name="T
 
    Please follow the links bellow to download and install the chrome extension: 
    
-   [https://addons.mozilla.org/en-US/firefox/addon/myPrompts/](https://chromewebstore.google.com/detail/my-prompts/ohmlhcmmjbponikechknmhedgojoaamp)
+   [https://chromewebstore.google.com/detail/my-prompts/ohmlhcmmjbponikechknmhedgojoaamp](https://chromewebstore.google.com/detail/my-prompts/ohmlhcmmjbponikechknmhedgojoaamp)
    
    In your browser enable the extesion, open preference/option page, cick button 'Import from Github' to download the config files, then click import button to choose the related configure file for the website you need to access and import the configure file. Click "Auto fill" and "Hot key" button to set up shortcut keys.
 
