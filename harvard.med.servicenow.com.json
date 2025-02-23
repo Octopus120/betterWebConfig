@@ -1,0 +1,399 @@
+{
+  "urls": {
+    "0": [
+      "URLs",
+      "harvardmed.service-now.com"
+    ],
+    "1": [
+      "submit",
+      "&NPOUNDsysverb_update_and_stay"
+    ],
+    "2": [
+      "leftURL",
+      "https://harvardmed.service-now.com/nav_to.do?uri=%2Ftask_list.do%3Fsysparm_query%3Dactive%3Dtrue%5Eassignment_group%3Dc68f6e9f6ff92100d531cd364b3ee437%5EORassignment_group%3De25d4f106fa62500d531cd364b3ee453%5EORassignment_group%3D5746f1ab1baf591438e3dd7edd4bcb29%5Eassigned_toISEMPTY%5Esys_class_name%3Dincident%26sysparm_first_row%3D1%26sysparm_view%3D"
+    ],
+    "3": [
+      "rightURL",
+      "https://harvardmed.service-now.com/nav_to.do?uri=%2Ftask_list.do%3Fsysparm_query%3Dassigned_to%3Djavascript:getMyAssignments()%5Eactive%3Dtrue"
+    ],
+    "4": [
+      "chatSessionURL",
+      "https://sandbox.ai.huit.harvard.edu/c/6795ea03-9121-4a2c-95a7-f497775dcbe5"
+    ],
+    "5": [
+      "myFirstName",
+      "Lingsheng"
+    ],
+    "6": [
+      "myID",
+      "ld32"
+    ],
+    "7": [
+      "ticketURL",
+      "https://harvardmed.service-now.com/now/nav/ui/classic/params/target/task_list.do%3Fsysparm_query%3Dassigned_to%3Djavascript%3AgetMyAssignments()%5Eactive%3Dtrue"
+    ],
+    "8": [
+      "newTicketColor",
+      "LightPink"
+    ],
+    "9": [
+      "holdTicketColor",
+      "LightSkyBlue"
+    ],
+    "10": [
+      "assignedTicketColor",
+      "lightgreen"
+    ],
+    "11": [
+      "bookmarkTicketColor",
+      "red"
+    ],
+    "12": [
+      "bookmarkTicketColor1",
+      "red"
+    ],
+    "13": [
+      "closedTicketColor",
+      "white"
+    ],
+    "14": [
+      "inActionColor",
+      "lightyellow"
+    ]
+  },
+  "keywords": {},
+  "controls": {
+    "0": [
+      "a Hide/show",
+      "hide/show"
+    ],
+    "1": [
+      "f >>",
+      "Click .icon-arrow-down"
+    ],
+    "2": [
+      "d <<",
+      "Click .icon-arrow-up"
+    ],
+    "3": [
+      "n Show Help",
+      "Show help"
+    ],
+    "4": [
+      "p profile",
+      "Save selection to profile"
+    ],
+    "5": [
+      "m Save, called by s",
+      "Click submitButton"
+    ],
+    "6": [
+      "u Copy user ID",
+      "Copy:userID"
+    ],
+    "7": [
+      "i Copy ticket ID",
+      "Copy:ticketID"
+    ],
+    "8": [
+      "o Find it in outlook",
+      "Find ticket ID in outlook.office.com"
+    ],
+    "9": [
+      "b Bookmark the ticket",
+      "Bookmark"
+    ],
+    "10": [
+      "ce",
+      "Copy:extendJob.sh jobID 5-0"
+    ],
+    "11": [
+      "ch",
+      "Copy:Could we add userID to highmem group? Thanks. ticketID"
+    ],
+    "12": [
+      "as Sandbox",
+      "Ask sandbox"
+    ],
+    "13": [
+      "bb Bookmark with commenents",
+      "Bookmark with comments"
+    ],
+    "14": [
+      "sb Search bookmark",
+      "Search bookmark"
+    ],
+    "15": [
+      "st",
+      "Summarize ticket"
+    ],
+    "16": [
+      "pe Edit using sandbox",
+      "Edit"
+    ],
+    "17": [
+      "o",
+      "Open https://www.google.com in new tab"
+    ],
+    "18": [
+      "uh",
+      "Copy:O2_jobs_report --partition=highmem --report --lastdays=21 -u userID"
+    ],
+    "19": [
+      "sp",
+      "Search prompts"
+    ]
+  },
+
+
+
+
+
+
+"shortcuts":
+ {"8":["tth Thanks for contacting us","Thanks for contacting us."]
+},
+
+"sentences":
+ {"0":[31,"Thanks for contacting us."],
+  
+  "1406":[2,"Please go ahead 33921129 with 500G and 30 cores."],
+  "1407":[2,"Please follow this wiki page: https://harvardmed.atlassian.net/wiki/spaces/O2/pages/1623425278/Installing+Other+R+packages+on+O2&NPOUND[hardBreak]R-package---Seurat"],
+  "1408":[2,"Please follow this wiki page: https://harvardmed.atlassian.net/wiki/spaces/O2/pages/1623425278/Installing+Other+R+packages+on+O2&NPOUNDR-packages---SF-and-Monocle3"],
+  "1409":[2,"Please follow the wiki page and test it out."],
+  "1410":[2,"Please follow the wiki page I shared with you, modify the myjob.sh script to include the job parameters and replace hostname like:"],
+  "1411":[2,"Please follow the wiki and create new env from scratch."],
+  "1412":[2,"Please fix the path."]
+},
+
+"hides": {
+  "0": [
+    "8",
+    "&NPOUNDheader_attachment_line"
+  ],
+  "1": [
+    "button next to description",
+    ".col-xs-2.col-md-1_5.col-lg-2.form-field-addons"
+  ],
+  "2": [
+    "post button row",
+    ".sn-controls.row"
+  ],
+  "3": [
+    "hide/show button",
+    ".col-xs-2.col-md-1_5.col-lg-2.form-field-addons.form-toggle-inputs"
+  ],
+  "4": [
+    "6 work note list/group",
+    "&NPOUNDc21cbf711b80995038e3dd7edd4bcb20 > div:nth-child(1)"
+  ],
+  "5": [
+    "7",
+    "&NPOUNDheader_attachment"
+  ],
+  "6": [
+    "5 related search results",
+    "&NPOUNDbf1d96e3c0a801640190725e63f8ac80 > div:nth-child(5) > div > div.custom-form-group.form-group.ng-scope"
+  ],
+  "7": [
+    "7 Contributor row",
+    "&NPOUNDc21cbf711b80995038e3dd7edd4bcb20 > div:nth-child(3)"
+  ],
+  "8": [
+    "Top Save button row",
+    ".navbar.navbar-default.section_zero.ng-scope"
+  ],
+  "9": [
+    "4 Service to bussiness elaped perentage",
+    "&NPOUNDbf1d96e3c0a801640190725e63f8ac80 > div:nth-child(4)"
+  ],
+  "10": [
+    "3 The grey bar",
+    "&NPOUNDbf1d96e3c0a801640190725e63f8ac80 > div:nth-child(3)"
+  ],
+  "11": [
+    "2 Ticket number to customer phone",
+    "&NPOUNDbf1d96e3c0a801640190725e63f8ac80 > div:nth-child(2)"
+  ],
+  "12": [
+    "1 ticket status bar",
+    "&NPOUNDbf1d96e3c0a801640190725e63f8ac80 > div:nth-child(1)"
+  ],
+  "13": [
+    "Note & history label",
+    "h3.form_header"
+  ],
+  "14": [
+    "10 bottom update, save, Add Task buttons",
+    "div.form_action_button_container"
+  ],
+  "15": [
+    "11 related links",
+    "h2.related_links.h4"
+  ],
+  "16": [
+    "8 Related record\n section",
+    "&NPOUNDsection-5efc3f351b80995038e3dd7edd4bcb8c"
+  ],
+  "17": [
+    "9 Resolution information section",
+    "&NPOUNDsection-e92ebbf51b80995038e3dd7edd4bcb30"
+  ],
+  "18": [
+    "12 show lsa timeline",
+    ".related_links_container.list-unstyled"
+  ],
+  "19": [
+    "13 show related list",
+    ".section-separator.text-center.related-list-trigger-container"
+  ],
+  "20": [
+    "14 time statistic",
+    "&NPOUNDpage_timing_div"
+  ],
+  "21": [
+    "15 Note/history right button",
+    ".navbar-right"
+  ],
+  "22": [
+    "16 description label",
+    "label[for=\"incident.short_description\"]x"
+  ],
+  "23": [
+    "17 the description",
+    "label[for=\"incident.description\"]x"
+  ],
+  "24": [
+    "18 comment labels",
+    "label[for=\"activity-stream-comments-textarea\"]x"
+  ],
+  "25": [
+    "19 comment labels",
+    "label[for=\"activity-stream-work_notes-textarea\"]x"
+  ],
+  "26": [
+    "20 for task2 id, assign to...",
+    "&NPOUND8687fbccc611229100727249a775cc31 > div:nth-child(2)"
+  ],
+  "27": [
+    "21 for task1 status part",
+    "&NPOUND8687fbccc611229100727249a775cc31 > div:nth-child(1)"
+  ],
+  "28": [
+    "22 for task5",
+    ".navbar.navbar-default.section_secondary:first"
+  ],
+  "29": [
+    "23 task note list",
+    "&NPOUNDelement\\\\.sc_task\\\\.work_notes_list"
+  ],
+  "30": [
+    "24 Parent for task",
+    "&NPOUNDfd9eb933db8dcd1027212ebb139619d1"
+  ],
+  "31": [
+    "25 Activities for task",
+    ".sn-stream.sn-form-stream-inlinex"
+  ],
+  "32": [
+    "26 variables for task",
+    "&NPOUND8687fbccc611229100727249a775cc31 > div:nth-child(3) > div:nth-child(1) > div:nth-child(5)"
+  ],
+  "33": [
+    "27 bottom line 1",
+    ".tabs2_section.tabs2_section_2.tabs2_section2x"
+  ],
+  "34": [
+    "28 bottom line 2",
+    ".tabs2_section.tabs2_section_2.tabs2_section3x"
+  ],
+  "35": [
+    "29 task note list",
+    "&NPOUND77d6d1f16fe5e2003a31cf164b3ee463 > div:nth-child(1) > div:nth-child(1) > div:nth-child(1)"
+  ],
+  "36": [
+    "30 help light bulb",
+    "&NPOUNDlookup.sc_task.short_description"
+  ],
+  "37": [
+    "1 Task ticket 1",
+    "&NPOUNDa9abef826fb31100688f6d6eae3ee4f2 > div:nth-child(1)"
+  ],
+  "38": [
+    "2 Task ticket 2",
+    "&NPOUNDa9abef826fb31100688f6d6eae3ee4f2 > div:nth-child(2)"
+  ],
+  "39": [
+    "3 task ticket 3",
+    "&NPOUNDa9abef826fb31100688f6d6eae3ee4f2 > div:nth-child(3)1"
+  ],
+  "40": [
+    "4 task ticket 4",
+    "&NPOUNDa9abef826fb31100688f6d6eae3ee4f2 > div:nth-child(4)"
+  ],
+  "41": [
+    "5 task ticket 5",
+    "&NPOUNDa9abef826fb31100688f6d6eae3ee4f2 > div:nth-child(6)"
+  ]
+},
+"fills": {
+  "0": [
+    "x Close ticket",
+    "State:Resolved \nResolution code:Request Fulfilled\nResolution notes:Done\nResolution type:Resolved with Remote Tools\nClick submitButton\nDelay f"
+  ],
+  "1": [
+    "w Bio Request",
+    "Service:Bioinformatics\nTicket Type:Request\nRequest Type:Consulting\nApp/Hardware:Bioinformatics Consultation\nAssignment group:SN RC Consulting\nAssigned to:myFirstName myLastName\nClick submitButton"
+  ],
+  "2": [
+    "r HPC Request",
+    "Service:High Performance Compute\nTicket Type:Request\nRequest Type:Consulting\nApp/Hardware:O2 Software\nAssignment group:SN RC Consulting\nAssigned to:myFirstName\nClick submitButton"
+  ],
+  "3": [
+    "q Bio troubleshoot",
+    "Service:Bioinformatics\nTicket Type:Troubleshoot\nApp/Hardware:Bioinformatics Consultation\nAssignment group:SN RC Consulting\nAssigned to:myFirstName myLastName\nClick submitButton"
+  ],
+  "4": [
+    "e HPC Troubleshoot",
+    "Service:High Performance Compute\nTicket Type:Troubleshoot\nApp/Hardware:O2 Software \nAssignment group:SN RC Consulting\nAssigned to:myFirstName myLastName\nClick submitButton"
+  ],
+  "5": [
+    "Label:Xpath",
+    "ServiceT:input[name=\"sys_display.sc_task.u_service_offering\"]:button[name=\"lookup.sc_task.u_service_offering\"]:service_list\n\nAssignment groupT:input[name=\"sys_display.sc_task.assignment_group\"]:button[name=\"lookup.sc_task.assignment_group\"]:user_group_list \n\nAssigned toT:input[name=\"sys_display.sc_task.assigned_to\"]:button[name=\"lookup.sc_task.assigned_to\"]:user_list\n\n\nService:input[name=\"sys_display.incident.u_service_offering\"]:button[name=\"lookup.incident.u_service_offering\"]:service_list \n\nTicket Type:select[name=\"incident.category\"] \n\nRequest Type:select[name=\"incident.subcategory\"] \n\nApp/Hardware:input[name=\"sys_display.incident.cmdb_ci\"]:button[name=\"lookup.incident.cmdb_ci\"]:ci_list \n\nAssignment group:input[name=\"sys_display.incident.assignment_group\"]:button[name=\"lookup.incident.assignment_group\"]:user_group_list  \n \nAssigned to:input[name=\"sys_display.incident.assigned_to\"]:button[name=\"lookup.incident.assigned_to\"]:user_list\n\nState:select[name=\"incident.state\"]\n\nResolution code:select[name=\"incident.u_resolution_code\"]\n\nOn hold reason:select[name=\"incident.u_on_hold_reason\"]\n\nOn hold expiration date:input[name=\"incident.u_on_hold_expiration_date\"]\n\nResolution notes:textarea[name=\"incident.u_resolution_notes\"]\n  \nResolution type:select[name=\"incident.u_resolution_type\"]"
+  ],
+  "6": [
+    "autoRun0",
+    "ss f &NPOUND change 'autoRun0' to 'autoRun' to auto run commands after page is load"
+  ],
+  "7": [
+    "&NPOUNDh Put ticket on hold",
+    "State:On Hold\nOn hold reason:End User\nOn hold expiration date:1week\nm\n&NPOUNDDelay d h"
+  ],
+  "8": [
+    "g Give up a ticket",
+    "State:Unassigned\nClick submitButton"
+  ],
+  "9": [
+    "s",
+    "State:On Hold\nOn hold reason:End User\nOn hold expiration date:2weeks\nClick submitButton"
+  ],
+  "10": [
+    "k",
+    "ServiceT:HCP Support\nAssignment groupT:SN RC Consulting\nAssigned toT:myFirstName"
+  ],
+  "11": [
+    "h Put ticket on hold",
+    "State:On Hold\nOn hold reason:End User\nOn hold expiration date:2week\nClick submitButton"
+  ]
+},
+"bookmark": {
+  "1": [
+    "INC0699925",
+    "Keywords: Seurat"
+  ],
+  "2": [
+    "INC0700797",
+    "Keywords: bookmark"
+  ]
+}
+}
