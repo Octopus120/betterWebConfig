@@ -8,6 +8,8 @@ My Prompts -- chrome extension to make web work better for us.<a name="TOP"></a>
     
 ### 2. How to install and configure Auto text?
 
+   Need to load manually before Google approve it in Google Store.
+   
    Please follow the links bellow to download and install the chrome extension: 
    
    Download https://github.com/Octopus120/myPromptsConfig/blob/main/chrome.release.zip
