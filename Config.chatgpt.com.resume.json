@@ -47,7 +47,8 @@
   "11": [
     "xreview &NPOUNDReview and edit resume or any comments",
     "You are reviewing and editing your resume for accuracy and effectiveness. Proofread carefully for spelling, grammar, and punctuation errors. Check for clarity, relevance, and consistency of information. Seek feedback from peers or professional resume reviewers for improvement."
-  ]
+  ], 
+    "12": ["xsp", "Search prompts"]
 },
 
 "sentences":
