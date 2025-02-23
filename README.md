@@ -9,9 +9,23 @@ List of commonly used prompts. Feel free to clone or PR yours. Thanks.<a name="T
 ### 2. How to install and configure Auto text?
 
    Please follow the links bellow to download and install the chrome extension: 
-   
+
+   version 1.0
    [https://chromewebstore.google.com/detail/my-prompts/ohmlhcmmjbponikechknmhedgojoaamp](https://chromewebstore.google.com/detail/my-prompts/ohmlhcmmjbponikechknmhedgojoaamp)
+
+   verison: 1.3
    
+   Download https://github.com/Octopus120/myPromptsConfig/blob/main/chrome.release.zip
+   
+   Unzip it to a folder. 
+   Open Chrome, Go to Settings -> Tools -> Extensions
+
+   Enable developer mode
+
+   Click "Load unpacked extention"
+
+   Browse to the unpacked folder and install your extention
+
    In your browser enable the extesion, open preference/option page, cick button 'Import from Github' to download the config files, then click import button to choose the related configure file for the website you need to access and import the configure file. Click "Auto fill" and "Hot key" button to set up shortcut keys.
 
 ### 2. How to use My Prompts?   
