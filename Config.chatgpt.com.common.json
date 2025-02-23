@@ -6,7 +6,8 @@
  {},
 
 "controls":
- {"0":["p &NPOUNDSave to profile","Save selection to profile"]},
+ {"0":["p &NPOUNDSave to profile","Save selection to profile"], 
+    "1": ["sp", "Search prompts"]},
 
 "shortcuts":
  {"0": [
