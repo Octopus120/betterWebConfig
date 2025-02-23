@@ -51,7 +51,8 @@
   "12": [
     "xmarketanalysis &NPOUNDAnalyze market trends or any comments",
     "Analyze current market trends and competitive landscape to identify opportunities and threats. Evaluate consumer behavior, industry shifts, and emerging technologies. Provide insights for strategic decision-making.\n{market trends}:\n{competitive landscape}:\n{consumer behavior}:\n{industry shifts}:\n{emerging technologies}:\n{strategic insights}:"
-  ]},
+  ], 
+    "13": ["xsp", "Search prompts"]},
 
 "sentences":
  {"0":[2,"Good morning. (note: 2 means this sentence is used twice.)"],
