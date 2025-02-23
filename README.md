@@ -1,4 +1,4 @@
-List of commonly used prompts. Feel free to clone or PR yours. Thanks.<a name="TOP"></a>
+My Prompts -- chrome extension to make web work better for us.<a name="TOP"></a>
 ===================
 
 - - - - 
