@@ -33,7 +33,10 @@ My Prompts -- chrome extension to make web work better for us.<a name="TOP"></a>
 ### 3. How to ask question?
    Please post your questions in:
    
-  [ https://github.com/Octopus120/myPromptsConfig ](https://github.com/Octopus120/myPromptsConfig)
+  [ https://github.com/Octopus120/myPromptsConfig/issues ](https://github.com/Octopus120/myPromptsConfig)
+
+
+Note: old verion is not working: https://chromewebstore.google.com/detail/my-prompts/ohmlhcmmjbponikechknmhedgojoaamp  
    
       
 
