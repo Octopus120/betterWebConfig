@@ -47,7 +47,8 @@
   "11": [
     "xprofessional &NPOUNDAdvance professional development or any comments",
     "You are seeking opportunities for professional development as an educator. Recommend resources, workshops, conferences, or online courses that can enhance teaching practices, expand subject knowledge, and promote continuous growth and learning in the field of education."
-  ]},
+  ], 
+    "12": ["xsp", "Search prompts"]},
 
 "sentences":
  {"0":[2,"Good morning. (note: 2 means this sentence is used twice.)"],
