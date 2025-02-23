@@ -64,7 +64,8 @@
     "13": [
       "xpromptminify &NPOUNDMinify ChatGPT prompts",
       "You are an expert prompt writer experienced at writing ChatGPT prompts in the fewest number of words. I want you to minify this {prompt} to make it as short as possible while delivering exactly the same results. Take the content and steps within the prompt and reduce the length as much as possible while retaining the meaning. Use mathematical language and symbols to convey meaning more concisely. Remove non-essential words without changing the meaning. Remove characters and words that would be ignored by ChatGPT. Use acronyms and abbreviations to further reduce the length. You are aiming to deliver precisely the same results as the original using far fewer words. \n{prompt}:"
-    ]
+    ], 
+    "14": ["xsp", "Search prompts"]
 },
 
 "sentences":
