@@ -16,27 +16,8 @@
 
 "sentences":
  {"0":["5","Happy July 4th."],
-  "1":["2","Yes, other people are also interested in the project."],
-  "2":["2","We will host training for users to use the software as well."],
-  "3":["2","Here is the code:"],
-  "4":["2","Happy Friday. (note: 2 means this sentence is used twice.)"],
-  "5":["1","Where does $sampleName get initialized?"],
-  "6":["1","Using rchelp will get more attentions."],
-  "7":["1","Using rchelp will get more attentions and get answer faster."],
-  "8":["1","Sorry, missed a NOT in last message."],
-  "9":["1","Rerun is ignored because the input size does change."],
-  "10":["1","Re-run is ignored because the input size does change."],
-  "11":["1","Let us know if anything does not work or you have any suggstions."],
-  "12":["1","If it is empty, $sampleName.stats.txt becomes .stats.txt"],
-  "13":["1","Here is correct one:"],
-  "14":["1","Good point."],
-  "15":["1","200 is good number."],
-  "16":["1","Now the limiting factor transferring the data from standby to scratch."],
-  "17":["1","So far, only about 3T is transferred to my scratch, but the inode count already reached 10M."],
-  "18":["1","My scratch quota is 100T and 20M inode."],
-  "19":["1","I might need to increase it."],
-  "20":["1","Does starfish scan standby folder?"],
-  "21":["1","I am working on:"]},
+  "1":["2","Yes, other people are also interested in the project."]
+  },
 
 "hides":
  {},
