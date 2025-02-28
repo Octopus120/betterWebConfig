@@ -15,6 +15,7 @@ My Prompts -- Chrome extension to make web work better for us.<a name="TOP"></a>
    In your browser enable the extesion, open preference/option page, cick button 'Import from Github' to download the config files, then click import button to choose the related configure file for the website you need to access and import the configure file. Click "Auto fill" and "Hot key" button to set up shortcut keys.
 
 ### 2. How to use My Prompts?   
+
    I type in more than 50 prompts and emails every day on average. Most of the prompts and have similar contents. To improve productivity, I developed this Chrome extension, and glad to share it with large community.
 
 This Chrome extension can automatically perform text expansion and complete with prompts below the curer, which will save your time dramatically.
@@ -22,6 +23,7 @@ This Chrome extension can automatically perform text expansion and complete with
 Current version supports chatgtp, claude, gmail, yahoo, gmail, outlook service-now. It is fully tested using 126.0.6478.183 on Mac. Here are the major features: 
 
 For all the above mentioned web sites:
+
 1 Highlight text, then type p or right-click, then 'save to profile' to create shortcut for prompt/text.
 
 2 Directly define shortcut for your favorite prompt/text in options page.
@@ -62,5 +64,5 @@ Thanks.
 ### 3. How to ask question?
    Please post your questions in:
    
-  [ https://github.com/Octopus120/myPromptsConfig/issues ](https://github.com/Octopus120/myPromptsConfig)
+  Feel free to join in our mailing list: https://groups.google.com/g/my-prompts
  
