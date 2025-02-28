@@ -8,22 +8,10 @@ My Prompts -- chrome extension to make web work better for us.<a name="TOP"></a>
     
 ### 2. How to install and configure My Promts?
 
-   For now, need to load manually before Google approve it in Google Store.
-   
-   Please follow the links bellow to download and install the chrome extension: 
-   
-   Download https://github.com/Octopus120/myPromptsConfig/blob/main/chrome.release.zip
-   
-   Unzip it to a folder. 
-   
-   Open Chrome, Go to Settings -> Tools -> Extensions
+   Open chrome and click this link: 
 
-   Enable developer mode on upper right conner
-
-   Click "Load unpacked extention"
-
-   Browse to the unpacked folder and install your extention
-
+   https://chromewebstore.google.com/detail/my-prompts/ohmlhcmmjbponikechknmhedgojoaamp 
+   
    In your browser enable the extesion, open preference/option page, cick button 'Import from Github' to download the config files, then click import button to choose the related configure file for the website you need to access and import the configure file. Click "Auto fill" and "Hot key" button to set up shortcut keys.
 
 ### 2. How to use My Prompts?   
@@ -35,6 +23,4 @@ My Prompts -- chrome extension to make web work better for us.<a name="TOP"></a>
    Please post your questions in:
    
   [ https://github.com/Octopus120/myPromptsConfig/issues ](https://github.com/Octopus120/myPromptsConfig)
-
-
-Note: old verion is not working: https://chromewebstore.google.com/detail/my-prompts/ohmlhcmmjbponikechknmhedgojoaamp  
+ 
