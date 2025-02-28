@@ -1,4 +1,4 @@
-My Prompts -- chrome extension to make web work better for us.<a name="TOP"></a>
+My Prompts -- Chrome extension to make web work better for us.<a name="TOP"></a>
 ===================
 
 - - - - 
