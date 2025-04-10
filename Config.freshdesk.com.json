@@ -1,0 +1,29 @@
+{"urls":
+ {"0":["URLs","freshdesk.com"],
+  "1":["myFirstName","David"]},
+
+"keywords":
+ {},
+
+"controls":
+ {"0":["p","Save selection to profile"],
+  "1":["sp","Search prompts"]},
+
+"shortcuts":
+ {"0":["hny &NPOUNDhappyNew or any comments","Happy New Year."],
+  "1":["hfd hfd","Happy Friday.\nBye,\nmyFirstName"],
+  "2":["hbd &NPOUNDhappyBirth or any comments you want","Happy birthday1."]},
+
+"sentences":
+ {"0":["5","Happy July 4th."],
+  "1":["2","Yes, other people are also interested in the project."]
+  },
+
+"hides":
+ {},
+
+"fills":
+ {},
+
+"bookmark":
+ {}}
