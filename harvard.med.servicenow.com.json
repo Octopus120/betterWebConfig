@@ -156,14 +156,7 @@
 
 "sentences":
  {"0":[31,"Thanks for contacting us."],
-  
-  "1406":[2,"Please go ahead 33921129 with 500G and 30 cores."],
-  "1407":[2,"Please follow this wiki page: https://harvardmed.atlassian.net/wiki/spaces/O2/pages/1623425278/Installing+Other+R+packages+on+O2&NPOUND[hardBreak]R-package---Seurat"],
-  "1408":[2,"Please follow this wiki page: https://harvardmed.atlassian.net/wiki/spaces/O2/pages/1623425278/Installing+Other+R+packages+on+O2&NPOUNDR-packages---SF-and-Monocle3"],
-  "1409":[2,"Please follow the wiki page and test it out."],
-  "1410":[2,"Please follow the wiki page I shared with you, modify the myjob.sh script to include the job parameters and replace hostname like:"],
-  "1411":[2,"Please follow the wiki and create new env from scratch."],
-  "1412":[2,"Please fix the path."]
+  "1":[2,"Please fix the path."]
 },
 
 "hides": {
