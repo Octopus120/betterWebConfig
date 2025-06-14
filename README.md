@@ -1,10 +1,10 @@
-My Prompts -- Chrome extension to make web work better for us.<a name="TOP"></a>
+Smart Form -- Chrome extension to make web work better for us.<a name="TOP"></a>
 ===================
 
 - - - - 
-### 1. What is My Prompts? 
+### 1. What is Smart Form? 
 
-   My Prompts is an Chrome extension to automate office work, such as automatically fill and submit web form.
+   Smart Form is an Chrome extension to automate office work, such as automatically fill and submit web form.
     
 ### 2. How to install and configure My Promts?
 
@@ -14,7 +14,7 @@ My Prompts -- Chrome extension to make web work better for us.<a name="TOP"></a>
    
    In your browser enable the extesion, open preference/option page, cick button 'Import from Github' to download the config files, then click import button to choose the related configure file for the website you need to access and import the configure file. Click "Auto fill" and "Hot key" button to set up shortcut keys.
 
-### 2. How to use My Prompts?   
+### 2. How to use Smart Form?   
 
    I type in more than 50 prompts and emails every day on average. Most of the prompts and have similar contents. To improve productivity, I developed this Chrome extension, and glad to share it with large community.
 
