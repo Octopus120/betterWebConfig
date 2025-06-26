@@ -62,7 +62,5 @@ Please let me know if you have any comments and suggestions.
 Thanks.
    
 ### 3. How to ask question?
-   Please post your questions in:
-   
-  Feel free to join in our mailing list: https://groups.google.com/g/my-prompts
+   Please post your questions in:https://github.com/Octopus120/betterWebConfig/issues
  
