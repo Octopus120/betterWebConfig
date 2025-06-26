@@ -10,7 +10,7 @@ Better Web -- Chrome extension to make web work better for us.<a name="TOP"></a>
 
    Open chrome and click this link: 
 
-   [https://chromewebstore.google.com/detail/my-prompts/ohmlhcmmjbponikechknmhedgojoaamp ](https://chromewebstore.google.com/detail/better-web/ohmlhcmmjbponikechknmhedgojoaamp)
+   https://chromewebstore.google.com/detail/better-web/ohmlhcmmjbponikechknmhedgojoaamp
    
    In your browser enable the extesion, open preference/option page, cick button 'Import from Github' to download the config files, then click import button to choose the related configure file for the website you need to access and import the configure file. Click "Auto fill" and "Hot key" button to set up shortcut keys.
 
