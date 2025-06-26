@@ -351,8 +351,8 @@
     "Service:High Performance Compute\nTicket Type:Troubleshoot\nApp/Hardware:O2 Software \nAssignment group:SN RC Consulting\nAssigned to:myFirstName myLastName\nClick submitButton"
   ],
   "5": [
-    "Label:Xpath",
-    "ServiceT:input[name=\"sys_display.sc_task.u_service_offering\"]:button[name=\"lookup.sc_task.u_service_offering\"]:service_list\n\nAssignment groupT:input[name=\"sys_display.sc_task.assignment_group\"]:button[name=\"lookup.sc_task.assignment_group\"]:user_group_list \n\nAssigned toT:input[name=\"sys_display.sc_task.assigned_to\"]:button[name=\"lookup.sc_task.assigned_to\"]:user_list\n\n\nService:input[name=\"sys_display.incident.u_service_offering\"]:button[name=\"lookup.incident.u_service_offering\"]:service_list \n\nTicket Type:select[name=\"incident.category\"] \n\nRequest Type:select[name=\"incident.subcategory\"] \n\nApp/Hardware:input[name=\"sys_display.incident.cmdb_ci\"]:button[name=\"lookup.incident.cmdb_ci\"]:ci_list \n\nAssignment group:input[name=\"sys_display.incident.assignment_group\"]:button[name=\"lookup.incident.assignment_group\"]:user_group_list  \n \nAssigned to:input[name=\"sys_display.incident.assigned_to\"]:button[name=\"lookup.incident.assigned_to\"]:user_list\n\nState:select[name=\"incident.state\"]\n\nResolution code:select[name=\"incident.u_resolution_code\"]\n\nOn hold reason:select[name=\"incident.u_on_hold_reason\"]\n\nOn hold expiration date:input[name=\"incident.u_on_hold_expiration_date\"]\n\nResolution notes:textarea[name=\"incident.u_resolution_notes\"]\n  \nResolution type:select[name=\"incident.u_resolution_type\"]"
+    "autoRun1",
+    "ss f &NPOUND change 'autoRun0' to 'autoRun' to auto run commands after page is load"
   ],
   "6": [
     "autoRun0",
